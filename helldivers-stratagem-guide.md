@@ -23,7 +23,7 @@ Ok here we go. You can (and should!) click on things to jump to their detailed a
 # Oversimplified Overview
 
 ## Great on both fronts:
-![Orbital Precision Strike](/images/Orbital_Precision_Strike_Stratagem_Icon.webp)
+[![Precision Strike](/images/Orbital_Precision_Strike_Stratagem_Icon.webp "Precision Strike Icon")]
 
 ## Great on bugs only:
 
