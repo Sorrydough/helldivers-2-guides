@@ -3,7 +3,6 @@
 ## ▼▼▼ IMPORTANT READ THIS FIRST ▼▼▼
 While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy after all. If you want to maximize your ability to spill the highest quantity of alien fluid per minute, you've come to the right place.
 
-So with that being said:
 1. **I'm reviewing things for their ability to get kills or facilitate something else to get kills.**
 - Stratagems only useful in a playstyle centered around running away won't earn any praise from me.
 2. **I'm reviewing things for their performance in a Super Helldive (d10) duo.** *Not solo, not in a full group, not on any other difficulty.*
@@ -12,5 +11,5 @@ So with that being said:
 3. **I'm reviewing things with the assumption that you are willing to use every trick available to maximize their value per slot.**
 - For example: I assume that you share your partner's backpack or that you find a railgun on the map.
 4. **I'm not going to directly tell you what to use. I want you to use your brain and decide for yourself.**
-- I put a ton of effort into my testing and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use them go to reddit or discord, those people are happy to tell you.
+- I put a ton of effort into my testing and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use then go to reddit or discord, those people are happy to tell you.
 ## ▲▲▲ IMPORTANT READ THIS FIRST ▲▲▲
