@@ -18,3 +18,24 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 6. **I'm not going to put things into a simple tierlist.**
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS FIRST ▲▲▲
+
+Ok here we go. You can (and should!) click on things to jump to their detailed analysis.
+# Oversimplified Overview
+
+## Great on both fronts:
+![Orbital Precision Strike](/images/Orbital_Precision_Strike_Stratagem_Icon.webp)
+
+## Great on bugs only:
+
+
+## Great on bots only:
+
+
+## Works if you play around its flaws:
+
+
+## Works but a downgrade of something else:
+
+
+## Arrownoggin doesn't play their game:
+
