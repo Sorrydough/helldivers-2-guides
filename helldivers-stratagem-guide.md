@@ -12,5 +12,5 @@ So with that being said:
 3. **I'm reviewing things with the assumption that you are willing to use every trick available to maximize their value per slot.**
 - For example: I assume that you share your partner's backpack or that you find a railgun on the map.
 4. **I'm not going to directly tell you what to use. I want you to use your brain and decide for yourself.**
-- I put a ton of effort into testing everything and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use them go to reddit or discord, those people are happy to tell you what to do.
+- I put a ton of effort into my testing and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use them go to reddit or discord, those people are happy to tell you.
 ## ▲▲▲ IMPORTANT READ THIS FIRST ▲▲▲
