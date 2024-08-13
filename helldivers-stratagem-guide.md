@@ -3,7 +3,7 @@
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
 ## ▼▼▼ IMPORTANT READ THIS FIRST ▼▼▼
-While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy, "just because it works doesn't mean it's good". If you want to maximize your ability to keep your fluids where they should be while spilling as much of the aliens' as possible, then you've come to the right place.
+While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy: "just because it works doesn't mean it's good". If you want to maximize your ability to keep your fluids where they should be while spilling as much of the aliens' as possible, then you've come to the right place.
 
 1. **I'm reviewing things for their ability to get kills or facilitate something else to get kills.**
     - Stratagems that are only useful in a playstyle centered around running away won't earn any praise from me.
@@ -15,4 +15,6 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 4. **I'm reviewing things with the assumption that you see having fewer deaths as a "higher score".**
 5. **I'm not going to directly tell you what to use. I want you to use your brain and decide for yourself.**
     - I put a ton of effort into my testing and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use then go to reddit or discord, those people are happy to do so.
+6. **I'm not going to put things into a simple tierlist.**
+    - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance to do so.
 ## ▲▲▲ IMPORTANT READ THIS FIRST ▲▲▲
