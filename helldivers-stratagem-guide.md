@@ -1,4 +1,4 @@
-Revised as of patch: Escalation of Freedom
+<u>**Updated to patch: Escalation of Freedom**</u>
 
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
