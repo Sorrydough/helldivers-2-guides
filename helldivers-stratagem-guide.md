@@ -3,7 +3,7 @@
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
 ## ▼▼▼ IMPORTANT READ THIS FIRST ▼▼▼
-While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy, "just because it works doesn't mean it's good". If you want to maximize your ability to spill the highest quantity of alien fluid per minute without letting them to the same to you, then you've come to the right place.
+While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy, "just because it works doesn't mean it's good". If you want to maximize your ability to keep your fluids where they should be while spilling as much of the aliens' as possible, then you've come to the right place.
 
 1. **I'm reviewing things for their ability to get kills or facilitate something else to get kills.**
     - Stratagems that are only useful in a playstyle centered around running away won't earn any praise from me.
