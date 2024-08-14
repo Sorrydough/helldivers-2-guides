@@ -35,19 +35,19 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
 
 ## Works if you play around its flaws:
-<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
-<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" width="64"><!---->
+<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64"><!---->
+<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64"><!---->
+<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64"><!---->
+<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64"><!---->
+<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack" width="64"><!---->
+<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64"><!---->
+<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64"><!---->
+<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64"><!---->
+<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64"><!---->
+<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64"><!---->
+<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64"><!---->
+<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64"><!---->
 
 ## Works but a downgrade of something else:
 
