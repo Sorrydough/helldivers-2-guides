@@ -15,7 +15,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry" width="64">](#rocket-sentry)<!---->
 [<img src="/images/stratagems/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry" width="64">](#autocannon-sentry)<!---->
 [<img src="/images/stratagems/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry" width="64">](#ems-mortar-sentry)<!---->
-[<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced..." width="64">](#autocannon-sentry)<!---->
+[<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced..." width="64">](#autocannon)<!---->
 [<img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="...as all things should be." width="64">](#commando)<!---->
 [<img src="/images/stratagems/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher" width="64">](#grenade-launcher)<!---->
 [<img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64">](#railgun)<!---->
@@ -35,7 +35,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
 
 ## Works if you play around its flaws:
-> These stratagems have an interesting niche but require you to learn specialized skills or deal with annoying design. <br>
+> These stratagems occupy an interesting niche but require you to learn specialized skills or deal with annoying design. <br>
 [<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
 [<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
