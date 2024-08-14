@@ -32,7 +32,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
 
 ## Works if you play around its flaws:
-> These stratagems can put in some work but generally require you to learn specialized skills or deal with poor game design. <br>
+> These stratagems have an interesting niche but require you to learn specialized skills or deal with poor game design. <br>
 [<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
 [<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
@@ -58,7 +58,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 
 ## Arrownoggin doesn't play their game:
-> These stratagems are glitched or require arrowhead to change their balancing philosophy to have a chance at viability. <br>
+> These stratagems are glitched or require arrowhead to change their balancing philosophy. Usually both. <br>
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
 [<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
