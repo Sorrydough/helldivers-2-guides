@@ -48,7 +48,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Works but a downgrade of something else:
 [<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
-[<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64">](#orbital-laser)<!---->
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64">](#eagle-strafing-run)<!---->
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
@@ -56,9 +55,10 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 
 ## Arrownoggin doesn't play their game:
-[<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
+[<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
+[<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64">](#orbital-laser)<!---->
 [<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64">](#orbital-railcannon-strike)<!---->
 [<img src="/images/stratagems/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Pods" width="64">](#eagle-rocket-pods)<!---->
 [<img src="/images/stratagems/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield" width="64">](#anti-personnel-minefield)<!---->
