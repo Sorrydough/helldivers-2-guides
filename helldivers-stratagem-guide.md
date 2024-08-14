@@ -23,8 +23,8 @@ Ok here we go. You can (and should!) click on things to jump to their detailed a
 # Oversimplified Overview
 
 ## Great on both fronts:
-<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!--
---><img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">
+<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!---->
+<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">
 
 ## Great on bugs only:
 
