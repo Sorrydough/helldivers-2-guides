@@ -27,13 +27,14 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Machine_Gun_Stratagem_Icon.webp" title="Machinegun" width="64">](#machinegun)<!---->
 
 ## Great on bots only:
-> [<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
+> [<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
+[<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
+[<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
 [<img src="/images/stratagems/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon" width="64">](#laser-cannon)<!---->
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
-[<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 
 ## Works if you play around its flaws:
-> These stratagems have an interesting niche but require you to learn specialized skills or deal with poor game design. <br>
+> These stratagems have an interesting niche but require you to learn specialized skills or deal with poor design. <br>
 [<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
 [<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
@@ -43,14 +44,13 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack" width="64">](#jump-pack)<!---->
 [<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64">](#shield-generator-pack)<!---->
 [<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
-[<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
 [<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64">](#spear)<!---->
 [<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64">](#quasar-cannon)<!---->
 [<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64">](#arc-thrower)<!---->
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Works but a downgrade of something else:
-> These stratagems fail to compete with another stratagem in the same role. <br>
+> These stratagems fail to compete with another in the same role. <br>
 [<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64">](#orbital-railcannon-strike)<!---->
 [<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
