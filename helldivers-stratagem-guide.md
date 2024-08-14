@@ -24,7 +24,16 @@ Ok here we go. You can (and should!) click on things to jump to their detailed a
 
 ## Great on both fronts:
 <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!---->
-<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">
+<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"><!---->
+<img src="/images/stratagems/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack" width="64"><!---->
+<img src="/images/stratagems/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack" width="64"><!---->
+<img src="/images/stratagems/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement" width="64"><!---->
+<img src="/images/stratagems/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry" width="64"><!---->
+<img src="/images/stratagems/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry" width="64"><!---->
+<img src="/images/stratagems/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry" width="64"><!---->
+<img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="Commando" width="64"><!---->
+<img src="/images/stratagems/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher" width="64"><!---->
+<img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64"><!---->
 
 ## Great on bugs only:
 
