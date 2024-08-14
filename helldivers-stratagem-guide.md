@@ -35,7 +35,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
 
 ## Works if you play around its flaws:
-<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" width="64"><!---->
+<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64"><!---->
 <img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64"><!---->
 <img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64"><!---->
 <img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64"><!---->
@@ -44,15 +44,34 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64"><!---->
 <img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64"><!---->
 <img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64"><!---->
-<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64"><!---->
 <img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64"><!---->
+<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64"><!---->
 <img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64"><!---->
 <img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64"><!---->
 
 ## Works but a downgrade of something else:
-
+<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64"><!---->
+<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64"><!---->
+<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64"><!---->
+<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64"><!---->
+<img src="/images/stratagems/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage" width="64"><!---->
+<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64"><!---->
+<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64"><!---->
+<img src="/images/stratagems/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover" width="64"><!---->
+<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64"><!---->
+<img src="/images/stratagems/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle" width="64"><!---->
+<img src="/images/stratagems/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank" width="64"><!---->
 
 ## Arrownoggin doesn't play their game:
+<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64"><!---->
+<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64"><!---->
+<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64"><!---->
+<img src="/images/stratagems/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield" width="64"><!---->
+<img src="/images/stratagems/Incendiary_Minefield_Stratagem_Icon.webp" title="Incendiary Minefield" width="64"><!---->
+<img src="/images/stratagems/Tesla_Tower_Stratagem_Icon.webp" title="Tesla Tower" width="64"><!---->
+<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64"><!---->
+<img src="/images/stratagems/Airburst_Rocket_Launcher_Stratagem_Icon.webp" title="Airburst Rocket Launcher" width="64"><!---->
+<img src="/images/stratagems/Flamethrower_Stratagem_Icon.webp" title="Flamethrower" width="64"><!---->
 
 ## ▼▼▼ IMPORTANT READ THIS BEFORE YAPPING ▼▼▼
 While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy: "just because it works doesn't mean it's good". If you want to maximize your ability to keep your fluids where they should be while spilling as much of the aliens' as possible, then you've come to the right place.
