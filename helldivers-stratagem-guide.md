@@ -47,7 +47,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
 [<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64">](#spear)<!---->
 [<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64">](#quasar-cannon)<!---->
-[<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another in the same role. <br>
@@ -58,6 +57,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
 [<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
+[<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Arrownoggin doesn't play their game:
 > These stratagems don't work how they should or represent a problem with the game's balance philosophy. Usually both. <br>
