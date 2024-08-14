@@ -21,12 +21,14 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64">](#railgun)<!---->
 
 ## Great on bugs only:
+>
 [<img src="/images/stratagems/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage" width="64">](#orbital-gatling-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike" width="64">](#eagle-napalm-strike)<!---->
 [<img src="/images/stratagems/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry" width="64">](#machinegun-sentry)<!---->
 [<img src="/images/stratagems/Machine_Gun_Stratagem_Icon.webp" title="Machinegun" width="64">](#machinegun)<!---->
 
 ## Great on bots only:
+>
 [<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
 [<img src="/images/stratagems/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon" width="64">](#laser-cannon)<!---->
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
