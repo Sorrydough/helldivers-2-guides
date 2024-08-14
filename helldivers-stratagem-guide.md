@@ -25,6 +25,7 @@ Ok here we go. You can (and should!) click on things to jump to their detailed a
 ## Great on both fronts:
 <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!---->
 <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"><!---->
+<img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64"><!---->
 <img src="/images/stratagems/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack" width="64"><!---->
 <img src="/images/stratagems/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack" width="64"><!---->
 <img src="/images/stratagems/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement" width="64"><!---->
