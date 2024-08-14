@@ -5,7 +5,7 @@ Quick and to the point for your ADHD addled brain. If you're new to the game and
 You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
-> These stratagems form the foundation of an effective loadout and they're always safe picks
+> These stratagems form the foundation of an effective loadout and they're always safe <br>
 [<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike)<!---->
 [<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">](#eagle-airstrike)<!---->
 [<img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64">](#eagle-cluster-bomb)<!---->
@@ -32,7 +32,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
 
 ## Works if you play around its flaws:
-> These stratagems can put in some work but generally require you to learn specialized skills or deal with poor game design
+> These stratagems can put in some work but generally require you to learn specialized skills or deal with poor game design <br>
 [<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
 [<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
@@ -49,7 +49,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Works but a downgrade of something else:
-> These stratagems fail to compete with another stratagem in the same role, so picking them is usually just worse
+> These stratagems fail to compete with another stratagem in the same role, so picking them is usually just worse <br>
 [<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64">](#eagle-strafing-run)<!---->
@@ -58,7 +58,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 
 ## Arrownoggin doesn't play their game:
-> These stratagems are glitched or require arrowhead to change their balancing philosophy to have a chance at viability
+> These stratagems are glitched or require arrowhead to change their balancing philosophy to have a chance at viability <br>
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
 [<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
