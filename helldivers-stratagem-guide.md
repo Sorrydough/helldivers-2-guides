@@ -24,7 +24,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on bugs only:
 <img src="/images/stratagems/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage" width="64"><!---->
-<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64"><!---->
 <img src="/images/stratagems/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike" width="64"><!---->
 <img src="/images/stratagems/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry" width="64"><!---->
 <img src="/images/stratagems/Machine_Gun_Stratagem_Icon.webp" title="Machinegun" width="64"><!---->
@@ -37,6 +36,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 ## Works if you play around its flaws:
 <img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64"><!---->
 <img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64"><!---->
+<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64"><!---->
 <img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64"><!---->
 <img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64"><!---->
