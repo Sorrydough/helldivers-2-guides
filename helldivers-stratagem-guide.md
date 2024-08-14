@@ -86,7 +86,7 @@ While there are 10,000 different ways to play helldivers and everyone is going t
     - With a smaller party size, there's less room for niche tools that you'll only use thrice per mission.
 3. **I'm reviewing things with the assumption that you are willing to use every trick available to maximize their value per slot.**
     - For example: I assume that you share your partner's backpack or that you find a railgun on the map.
-4. **I'm reviewing things with the assumption that you see having fewer deaths as a "higher score".**
+4. **I'm reviewing things with the assumption that you see having fewer deaths as a 'higher score'.**
 5. **I'm not going to directly tell you what to use. I want you to use your brain and decide for yourself.**
     - I put a ton of effort into my testing and the least you can do is put some effort into thinking critically about the information that I'm presenting you. If you just want to be told what to use then go to reddit or discord, those people are happy to do so.
 6. **I'm not going to put things into a simple tierlist.**
