@@ -34,7 +34,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
 
 ## Works if you play around its flaws:
-<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64"><!---->
+[![Alt test]<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#link-test)<!---->
 <img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64"><!---->
 <img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64"><!---->
@@ -61,7 +61,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle" width="64"><!---->
 <img src="/images/stratagems/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank" width="64"><!---->
 
-## Arrownoggin doesn't play their game:
+[## Arrownoggin doesn't play their game:](#link-test)
 <img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64"><!---->
