@@ -1,4 +1,5 @@
 >**Updated to patch: Escalation of Freedom**
+
 >No I'm not OhDough. It's just a coincidence.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
@@ -71,6 +72,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 [<img src="/images/stratagems/Airburst_Rocket_Launcher_Stratagem_Icon.webp" title="Airburst Rocket Launcher" width="64">](#airburst-rocket-launcher)<!---->
 [<img src="/images/stratagems/Flamethrower_Stratagem_Icon.webp" title="Flamethrower" width="64">](#flamethrower)<!---->
+
+---
 
 ## ▼▼▼ IMPORTANT READ THIS BEFORE YAPPING ▼▼▼
 While there are 10,000 different ways to play helldivers and everyone is going to approach it in their own way, I personally believe that the game is most fun when you kill as much stuff as possible. We're here to spread democracy and to quote a guy who's quoting a guy: "just because it works doesn't mean it's good". If you want to maximize your ability to keep your fluids where they should be while spilling as much of the aliens' as possible, then you've come to the right place.
