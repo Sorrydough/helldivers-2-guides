@@ -4,8 +4,8 @@ No I'm not OhDough. It's just a coincidence.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
 # Oversimplified Overview
-Quick and to the point for your ADHD addled brain. You can (and should!) click on things to jump to their detailed analysis.
-If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
+Quick and to the point for your ADHD addled brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
+You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
 <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!---->
