@@ -6,6 +6,8 @@ No I'm not OhDough. It's just a coincidence.
 # Oversimplified Overview
 Quick and to the point for your ADHD addled brain. You can (and should!) click on things to jump to their detailed analysis.
 
+If you're here to be spoonfed or you're new to the game and unsure what to use, then pick stuff in the 'great' categories and ignore the rest.
+
 ## Great on both fronts:
 <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"><!---->
 <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"><!---->
