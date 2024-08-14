@@ -41,7 +41,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
 [<img src="/images/stratagems/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage" width="64">](#orbital-120mm-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64">](#eagle-smoke-strike)<!---->
-[<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
+[<img src="/images/stratagems/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover" width="64">](#guard-dog-rover)<!---->
 [<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack" width="64">](#jump-pack)<!---->
 [<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64">](#shield-generator-pack)<!---->
 [<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
@@ -56,7 +56,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64">](#eagle-strafing-run)<!---->
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
-[<img src="/images/stratagems/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover" width="64">](#guard-dog-rover)<!---->
+[<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 
 ## Arrownoggin doesn't play their game:
