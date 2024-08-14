@@ -30,6 +30,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 > [<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
 [<img src="/images/stratagems/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon" width="64">](#laser-cannon)<!---->
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
+[<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 
 ## Works if you play around its flaws:
 > These stratagems have an interesting niche but require you to learn specialized skills or deal with poor game design. <br>
@@ -50,8 +51,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another stratagem in the same role. <br>
-[<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64">](#orbital-railcannon-strike)<!---->
+[<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64">](#eagle-strafing-run)<!---->
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
@@ -68,7 +69,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield" width="64">](#anti-personnel-minefield)<!---->
 [<img src="/images/stratagems/Incendiary_Minefield_Stratagem_Icon.webp" title="Incendiary Minefield" width="64">](#incendiary-minefield)<!---->
 [<img src="/images/stratagems/Tesla_Tower_Stratagem_Icon.webp" title="Tesla Tower" width="64">](#tesla-tower)<!---->
-[<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 [<img src="/images/stratagems/Airburst_Rocket_Launcher_Stratagem_Icon.webp" title="Airburst Rocket Launcher" width="64">](#airburst-rocket-launcher)<!---->
 [<img src="/images/stratagems/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle" width="64">](#recoilless-rifle)<!---->
 [<img src="/images/stratagems/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank" width="64">](#expendable-anti-tank)<!---->
