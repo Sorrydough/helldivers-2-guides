@@ -14,8 +14,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry" width="64">](#rocket-sentry)<!---->
 [<img src="/images/stratagems/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry" width="64">](#autocannon-sentry)<!---->
 [<img src="/images/stratagems/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry" width="64">](#ems-mortar-sentry)<!---->
-[<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Autocannon" width="64">](#autocannon-sentry)<!---->
-[<img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="Commando" width="64">](#commando)<!---->
+[<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced..." width="64">](#autocannon-sentry)<!---->
+[<img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="...as all things should be." width="64">](#commando)<!---->
 [<img src="/images/stratagems/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher" width="64">](#grenade-launcher)<!---->
 [<img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64">](#railgun)<!---->
 
@@ -41,6 +41,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64">](#shield-generator-pack)<!---->
 [<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
 [<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
+[<img src="/images/stratagems/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle" width="64">](#recoilless-rifle)<!---->
 [<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64">](#spear)<!---->
 [<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64">](#quasar-cannon)<!---->
 [<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64">](#arc-thrower)<!---->
@@ -55,7 +56,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
 [<img src="/images/stratagems/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover" width="64">](#guard-dog-rover)<!---->
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
-[<img src="/images/stratagems/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle" width="64">](#recoilless-rifle)<!---->
 [<img src="/images/stratagems/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank" width="64">](#expendable-anti-tank)<!---->
 
 ## Arrownoggin doesn't play their game:
