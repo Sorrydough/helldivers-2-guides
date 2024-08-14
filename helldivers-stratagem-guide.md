@@ -23,13 +23,31 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64"><!---->
 
 ## Great on bugs only:
-
+<img src="/images/stratagems/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage" width="64"><!---->
+<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64"><!---->
+<img src="/images/stratagems/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike" width="64"><!---->
+<img src="/images/stratagems/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry" width="64"><!---->
+<img src="/images/stratagems/Machine_Gun_Stratagem_Icon.webp" title="Machinegun" width="64"><!---->
 
 ## Great on bots only:
-
+<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64"><!---->
+<img src="/images/stratagems/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon" width="64"><!---->
+<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
 
 ## Works if you play around its flaws:
-
+<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
+<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64"><!---->
 
 ## Works but a downgrade of something else:
 
