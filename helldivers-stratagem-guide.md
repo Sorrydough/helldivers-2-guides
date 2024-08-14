@@ -33,7 +33,6 @@ You can (and should!) click on things to jump to their detailed analysis.
 ## Works if you play around its flaws:
 [<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
 [<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
-[<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64">](#eagle-smoke-strike)<!---->
 [<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
@@ -48,7 +47,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Works but a downgrade of something else:
-[<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
+[<img src="/images/stratagems/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike" width="64">](#orbital-airburst-strike)<!---->
 [<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64">](#orbital-laser)<!---->
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage" width="64">](#orbital-120mm-barrage)<!---->
@@ -60,6 +59,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Arrownoggin doesn't play their game:
 [<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
+[<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
 [<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64">](#orbital-railcannon-strike)<!---->
 [<img src="/images/stratagems/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Pods" width="64">](#eagle-rocket-pods)<!---->
