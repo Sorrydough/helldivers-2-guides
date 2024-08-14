@@ -8,7 +8,7 @@ Quick and to the point for your ADHD addled brain. If you're new to the game and
 You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
-[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](arrownoggin-doesnt-play-their-game)<!---->
+[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#arrownoggin-doesnt-play-their-game)<!---->
 <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"><!---->
 <img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64"><!---->
 <img src="/images/stratagems/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack" width="64"><!---->
