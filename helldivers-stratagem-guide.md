@@ -50,9 +50,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64"><!---->
 
 ## Works but a downgrade of something else:
-<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64"><!---->
 <img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64"><!---->
-<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64"><!---->
+<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64"><!---->
 <img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64"><!---->
 <img src="/images/stratagems/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage" width="64"><!---->
 <img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64"><!---->
@@ -63,9 +62,10 @@ You can (and should!) click on things to jump to their detailed analysis.
 <img src="/images/stratagems/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank" width="64"><!---->
 
 ## Arrownoggin doesn't play their game:
+<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64"><!---->
 <img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64"><!---->
-<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64"><!---->
+<img src="/images/stratagems/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Strike" width="64"><!---->
 <img src="/images/stratagems/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield" width="64"><!---->
 <img src="/images/stratagems/Incendiary_Minefield_Stratagem_Icon.webp" title="Incendiary Minefield" width="64"><!---->
 <img src="/images/stratagems/Tesla_Tower_Stratagem_Icon.webp" title="Tesla Tower" width="64"><!---->
