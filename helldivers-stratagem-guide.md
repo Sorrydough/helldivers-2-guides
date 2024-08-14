@@ -1,6 +1,6 @@
+No I'm not OhDough. It's just a coincidence.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 **Updated to patch: Escalation of Freedom**
-No I'm not OhDough. It's just a coincidence.
 
 # Oversimplified Overview
 Quick and to the point for your ADHD addled brain. You can (and should!) click on things to jump to their detailed analysis.
