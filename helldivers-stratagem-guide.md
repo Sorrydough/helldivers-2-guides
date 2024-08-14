@@ -1,6 +1,4 @@
->**Updated to patch: Escalation of Freedom**
-
->No I'm not OhDough. It's just a coincidence.
+>**Updated to patch: Escalation of Freedom.** No I'm not OhDough. It's just a coincidence.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
 # Oversimplified Overview
