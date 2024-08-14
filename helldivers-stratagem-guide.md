@@ -33,6 +33,7 @@ Ok here we go. You can (and should!) click on things to jump to their detailed a
 <img src="/images/stratagems/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry" width="64"><!---->
 <img src="/images/stratagems/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry" width="64"><!---->
 <img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="Commando" width="64"><!---->
+<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Autocannon" width="64"><!---->
 <img src="/images/stratagems/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher" width="64"><!---->
 <img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64"><!---->
 
