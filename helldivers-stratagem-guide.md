@@ -21,7 +21,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Railgun_Stratagem_Icon.webp" title="Railgun" width="64">](#railgun)<!---->
 
 ## Great on bugs only:
-> Some might be playable on bots if you end up with them by accident... don't take these on purpose though. <br>
+> <br>
 [<img src="/images/stratagems/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage" width="64">](#orbital-gatling-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike" width="64">](#eagle-napalm-strike)<!---->
 [<img src="/images/stratagems/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry" width="64">](#machinegun-sentry)<!---->
@@ -29,7 +29,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64">](#arc-thrower)<!---->
 
 ## Great on bots only:
-> Some might be playable on bugs if you end up with them by accident... don't take these on purpose though. <br>
+> <br>
 [<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 [<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
 [<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
