@@ -56,8 +56,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Arrownoggin doesn't play their game:
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
-[<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
+[<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
 [<img src="/images/stratagems/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser" width="64">](#orbital-laser)<!---->
 [<img src="/images/stratagems/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike" width="64">](#orbital-railcannon-strike)<!---->
 [<img src="/images/stratagems/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Pods" width="64">](#eagle-rocket-pods)<!---->
