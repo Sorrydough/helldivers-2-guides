@@ -59,8 +59,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
-## Arrownoggin doesn't play their game:
-> These stratagems don't work how they should or represent a problem with the game's balance philosophy. Usually both. <br>
+## Depths of despair:
+> These stratagems don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both. <br>
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
 [<img src="/images/stratagems/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike" width="64">](#orbital-ems-strike)<!---->
