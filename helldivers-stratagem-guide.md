@@ -119,7 +119,7 @@ Alongside the Eagle, the emplacement category is the most viable overall. Most e
 Backpacks might just be the single most misunderstood stratagem type in the entire game. I could write an entire dissertation on this, but I'll keep it simple for you with a couple bullet points:
 - When you equip a backpack in your loadout it consumes a slot that you can't spend on an offensive stratagem.
 - When an ally takes a backpack stratagem they can share their extra with you, functionally multiplying the slot's value.
-- Even when you pick up a backpack from the ground for free, it means you can't use the best support weapon in the game. <br> I'm sure you know which one that is.
+- Even when you pick up a backpack from the ground for free, it means you can't use the best support weapon in the game. <br> I won't disrespect your intelligence by explaining which one that is.
 
 
 
