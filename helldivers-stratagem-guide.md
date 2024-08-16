@@ -1,4 +1,4 @@
->**Updated to patch: Escalation of Freedom.** I'm not OhDough, it's just a coincidence that our names are similar.
+>**Updated to patch: Escalation of Freedom.** No I'm not OhDough, it's just a coincidence that our names are similar.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
 Quick and to the point for your ADHD addled brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
@@ -59,7 +59,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
-## Depths of despair:
+## Pits of despair:
 > These stratagems don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both. <br>
 [<img src="/images/stratagems/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike" width="64">](#orbital-gas-strike)<!---->
 [<img src="/images/stratagems/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike" width="64">](#orbital-smoke-strike)<!---->
@@ -92,5 +92,6 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 6. **I'm not going to put things into a simple tierlist.**
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
+
 
 
