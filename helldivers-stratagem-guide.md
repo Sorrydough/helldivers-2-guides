@@ -9,12 +9,12 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike)<!---->
 [<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">](#eagle-airstrike)<!---->
 [<img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64">](#eagle-cluster-bomb)<!---->
-[<img src="/images/stratagems/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack" width="64">](#shield-generator-pack)<!---->
-[<img src="/images/stratagems/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack" width="64">](#supply-pack)<!---->
 [<img src="/images/stratagems/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement" width="64">](#hmg-emplacement)<!---->
 [<img src="/images/stratagems/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry" width="64">](#rocket-sentry)<!---->
 [<img src="/images/stratagems/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry" width="64">](#autocannon-sentry)<!---->
 [<img src="/images/stratagems/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry" width="64">](#ems-mortar-sentry)<!---->
+[<img src="/images/stratagems/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack" width="64">](#shield-generator-pack)<!---->
+[<img src="/images/stratagems/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack" width="64">](#supply-pack)<!---->
 [<img src="/images/stratagems/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced..." width="64">](#autocannon)<!---->
 [<img src="/images/stratagems/Commando_Stratagem_Icon.webp" title="...as all things should be." width="64">](#commando)<!---->
 [<img src="/images/stratagems/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher" width="64">](#grenade-launcher)<!---->
@@ -28,23 +28,23 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower" width="64">](#arc-thrower)<!---->
 
 ## Great on bots only:
-> [<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
-[<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
+> [<img src="/images/stratagems/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry" width="64">](#mortar-sentry)<!---->
+[<img src="/images/stratagems/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack" width="64">](#ballistic-shield-backpack)<!---->
 [<img src="/images/stratagems/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun" width="64">](#heavy-machinegun)<!---->
 [<img src="/images/stratagems/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon" width="64">](#laser-cannon)<!---->
 [<img src="/images/stratagems/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle" width="64">](#anti-materiel-rifle)<!---->
 
 ## Works if you play around its flaws:
 > These stratagems occupy an interesting niche but require you to learn specialized skills or deal with annoying design. <br>
-[<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
-[<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
 [<img src="/images/stratagems/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage" width="64">](#orbial-380mm-barrage)<!---->
 [<img src="/images/stratagems/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage" width="64">](#orbital-120mm-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike" width="64">](#eagle-smoke-strike)<!---->
+[<img src="/images/stratagems/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit" width="64">](#patriot-exosuit)<!---->
+[<img src="/images/stratagems/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit" width="64">](#emancipator-exosuit)<!---->
+[<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
+[<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64">](#shield-generator-relay)<!---->
 [<img src="/images/stratagems/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover" width="64">](#guard-dog-rover)<!---->
 [<img src="/images/stratagems/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack" width="64">](#jump-pack)<!---->
-[<img src="/images/stratagems/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay" width="64">](#shield-generator-pack)<!---->
-[<img src="/images/stratagems/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines" width="64">](#anti-tank-mines)<!---->
 [<img src="/images/stratagems/Spear_Stratagem_Icon.webp" title="Spear" width="64">](#spear)<!---->
 [<img src="/images/stratagems/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon" width="64">](#quasar-cannon)<!---->
 
@@ -55,8 +55,8 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/images/stratagems/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage" width="64">](#orbital-walking-barrage)<!---->
 [<img src="/images/stratagems/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run" width="64">](#eagle-strafing-run)<!---->
 [<img src="/images/stratagems/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb" width="64">](#eagle-500kg-bomb)<!---->
-[<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
 [<img src="/images/stratagems/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry" width="64">](#gatling-sentry)<!---->
+[<img src="/images/stratagems/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog" width="64">](#guard-dog)<!---->
 [<img src="/images/stratagems/Stalwart_Stratagem_Icon.webp" title="Stalwart" width="64">](#stalwart)<!---->
 
 ## Pits of despair:
@@ -94,4 +94,20 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
 
 
+# Orbitals
+
+
+# Eagles
+
+
+# Vehicles
+
+
+# Emplacements
+
+
+# Backpacks
+
+
+# Support Weapons
 
