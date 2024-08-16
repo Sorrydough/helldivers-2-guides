@@ -6,7 +6,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
 > These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
-[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike)<!---->
+[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike-)<!---->
 [<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">](#eagle-airstrike)<!---->
 [<img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64">](#eagle-cluster-bomb)<!---->
 [<img src="/images/stratagems/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement" width="64">](#hmg-emplacement)<!---->
@@ -97,13 +97,14 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 # Analysis: Orbitals
 Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
 
-## Orbital Precision Strike
-<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="32"> ▲►►
+<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">
+## Orbital Precision Strike ▲►►
+
 > Crown jewel of the Super Destroyer's arsenal.
 
 
 # Analysis: Eagles
-Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top.
+Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
 
 
 
@@ -112,14 +113,14 @@ Our only vehicles at the moment are exosuits... and these things are not regarde
 
 
 # Analysis: Emplacements
-Alongside the Eagle, the emplacement category is the most viable overall. Most emplacements have a niche where they're best in slot for the role and many are competitive in roles outside their niche.
+Alongside the Eagle, the emplacement category is the most viable overall. Most emplacements have a niche where they're best in slot for the role and many are competitive in roles outside their niche. Things aren't entirely sunshine and roses though: Several emplacements still suffer from severe bugs or frustrating design.
 
 
 # Analysis: Backpacks
 Backpacks might just be the single most misunderstood stratagem type in the entire game. I could write an entire dissertation on this, but I'll keep it simple for you with a couple bullet points:
 - When you equip a backpack in your loadout it consumes a slot that you can't spend on an offensive stratagem.
 - When an ally takes a backpack stratagem they can share their extra with you, functionally multiplying the slot's value.
-- Even when you pick up a backpack from the ground for free, it means you can't use the best support weapon in the game. <br> I won't disrespect your intelligence by explaining which one that is.
+- Even when you pick up a backpack from the ground for free, it means you can't use the best support weapon in the game. <br> I'm sure you already know which one that is.
 
 
 
