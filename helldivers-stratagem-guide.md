@@ -100,9 +100,8 @@ Orbitals are in a strange place. The majority have comparable damage per use to 
 
 ## Orbital Precision Strike ▲►►
 
-<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">
-
-> Crown jewel of the Super Destroyer's arsenal.
+> <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> <br>
+Fires a single shot from the Destroyer's ATLAS cannon. The projectile deals 450 AP8 damage and creates a 1000 damage AP6 explosion with a 4m inner radius and an 18m shockwave. Callin time is 3.45s normally or 5.15s with the modifier.
 
 
 # Analysis: Eagles
