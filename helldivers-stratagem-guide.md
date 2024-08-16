@@ -98,23 +98,33 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
 
 ## Orbital Precision Strike
-<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> ▲►►
+<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="16"> ▲►►
 > Crown jewel of the Super Destroyer's arsenal.
 
 
 # Analysis: Eagles
-Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents AND frequently offer novel utility on top.
+Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top.
 
 
 
 # Analysis: Vehicles
+Our only vehicles at the moment are exosuits... and these things are not regarded well by the community. Despite being buggy and not behaving as anyone wanted, they can still find use. They're especially effective on loadouts dedicated to high cooldown toss-and-forget style stratagems such as orbital barrages or sentries.
 
 
 # Analysis: Emplacements
+Alongside the Eagle, the emplacement category is the most viable overall. Most emplacements have a niche where they're best in slot for the role and many are competitive in roles outside their niche.
 
 
 # Analysis: Backpacks
+Backpacks might just be the single most misunderstood stratagem type in the entire game. I could write an entire dissertation on this, but I'll keep it simple for you with a couple bullet points:
+- When you pick up a backpack from the ground for free, it means you can't use the best support weapon in the game. I'm sure you know which one that is.
+- When you equip a backpack in your loadout it consumes a slot that you can't spend on an offensive stratagem.
+- When an ally takes a backpack stratagem, they can share their extra with you, functionally multiplying the slot's value.
+
+
 
 
 # Analysis: Support Weapons
+
+
 
