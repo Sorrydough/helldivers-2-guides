@@ -94,20 +94,28 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
 
 
-# Orbitals
+# Analysis: Orbitals
+Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
+
+## Orbital Precision Strike
+> ▲►►
+
+The crown jewel of the Super Destroyer's arsenal.
 
 
-# Eagles
+# Analysis: Eagles
+Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents AND frequently offer novel utility on top.
 
 
-# Vehicles
+
+# Analysis: Vehicles
 
 
-# Emplacements
+# Analysis: Emplacements
 
 
-# Backpacks
+# Analysis: Backpacks
 
 
-# Support Weapons
+# Analysis: Support Weapons
 
