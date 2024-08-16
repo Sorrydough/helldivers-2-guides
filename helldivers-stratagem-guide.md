@@ -6,7 +6,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
 > These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
-[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike)<!---->
+[<img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">](#orbital-precision-strike-▲►►)<!---->
 [<img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64">](#eagle-airstrike)<!---->
 [<img src="/images/stratagems/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb" width="64">](#eagle-cluster-bomb)<!---->
 [<img src="/images/stratagems/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement" width="64">](#hmg-emplacement)<!---->
@@ -97,10 +97,8 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 # Analysis: Orbitals
 Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
 
-## Orbital Precision Strike
-> ▲►►
-
-The crown jewel of the Super Destroyer's arsenal.
+## Orbital Precision Strike ▲►►
+> Crown jewel of the Super Destroyer's arsenal.
 
 
 # Analysis: Eagles
