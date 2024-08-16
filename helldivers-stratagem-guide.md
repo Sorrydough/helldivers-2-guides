@@ -98,6 +98,7 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
 
 <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64">
+
 ## Orbital Precision Strike ▲►►
 
 > Crown jewel of the Super Destroyer's arsenal.
