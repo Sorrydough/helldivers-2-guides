@@ -111,7 +111,7 @@ Its power comes from its ability to quickly put down any large threat in the gam
 Overall an excellent stratagem that just does what it's supposed to do and a frequent keystone of many loadouts.
 
 # Analysis: Eagles
-Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they wipe the floor with everything else.
+Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they wipe the floor with every alternative.
 
 ## Eagle Airstrike ▲►▼►
 > <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"> <br>
