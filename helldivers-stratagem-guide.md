@@ -98,7 +98,7 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 Orbitals are supposed to be high cooldown and high impact options. However, in practice their effectiveness per dial struggles to compete with that of other stratagems. It's a reasonable expectation for an Orbital to fail a direct competition with an Eagle or Emplacement equivalent in the same role. Orbital stratagems tend to only stand out when offering something completely unique.
 
 
-## Orbital Precision Strike ▲►►
+## Orbital Precision Strike ►►▲
 > <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> <br>
 Fires a single shot from the Destroyer's ATLAS cannon. <br>
 The projectile deals 450 AP8 damage on a direct hit. Its explosion deals 1000 AP6 damage with a 4m inner radius.
@@ -110,11 +110,11 @@ Its power comes from its ability to quickly put down any large threat in the gam
 Overall an excellent stratagem that just does what it's supposed to do and a frequent keystone of many loadouts.
 
 # Analysis: Eagles
-Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
+Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
 
 ## Eagle Airstrike ▲►▼►
 > <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"> <br>
-Drops a barrage of 6 100kg bombs, coming in perpendicularly to the throw location. <br>
+Drops a barrage of 6 100kg bombs, coming in perpendicular to the throw location. <br>
 Each bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
 
@@ -125,7 +125,7 @@ Our only vehicles at the moment are exosuits... and these things are not regarde
 
 
 # Analysis: Emplacements
-Alongside the Eagle, the emplacement category is the most viable overall. Most emplacements have a niche where they're best in slot for the role and many are competitive in roles outside their niche. Things aren't entirely sunshine and roses though: Several emplacements still suffer from severe bugs or frustrating design.
+Alongside the Eagle, the emplacement category is the most viable overall. Most emplacements have a niche where they're best in slot for the role and many are competitive in roles outside their niche. Things aren't entirely sunshine and roses though: several emplacements still suffer from severe bugs or frustrating design.
 
 
 # Analysis: Backpacks
