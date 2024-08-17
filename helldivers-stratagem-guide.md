@@ -93,6 +93,7 @@ While there are 10,000 different ways to play helldivers and everyone is going t
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
 
+---
 
 # Analysis: Orbitals
 Orbitals are supposed to be high cooldown and high impact options. However, in practice their effectiveness per dial struggles to compete with that of other stratagems. It's a reasonable expectation for an Orbital to fail a direct competition with an Eagle or Emplacement equivalent in the same role. Orbital stratagems tend to only stand out when offering something completely unique.
@@ -110,7 +111,7 @@ Its power comes from its ability to quickly put down any large threat in the gam
 Overall an excellent stratagem that just does what it's supposed to do and a frequent keystone of many loadouts.
 
 # Analysis: Eagles
-Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
+Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they wipe the floor with everything else.
 
 ## Eagle Airstrike ▲►▼►
 > <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"> <br>
