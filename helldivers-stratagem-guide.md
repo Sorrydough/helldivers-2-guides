@@ -93,15 +93,13 @@ While there are 10,000 different ways to play helldivers and everyone is going t
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
 
----
-
 # Analysis: Orbitals
 Orbitals are supposed to be high cooldown and high impact options. However, in practice their effectiveness per dial struggles to compete with that of other stratagems. It's a reasonable expectation for an Orbital to fail a direct competition with an Eagle or Emplacement equivalent in the same role. Orbital stratagems tend to only stand out when offering something completely unique.
 
 
 ## Orbital Precision Strike ►►▲
 > <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> <br>
-Fires a single shot from the Destroyer's ATLAS cannon. <br>
+Fires a single shot from the Destroyer's 406mm ATLAS cannon. <br>
 The projectile deals 450 AP8 damage on a direct hit. Its explosion deals 1000 AP6 damage with a 4m inner radius.
 
 The sole jewel in the Super Destroyer's... uh, paper hat, the Precision Strike is the very first stratagem that's been buffed by Arrowhead to serve the role that players want it to serve rather than the role it was originally intended to serve. Fittingly, it's the only meta Orbital stratagem and sees widespread use in many loadouts on both Bug and Bot fronts.
