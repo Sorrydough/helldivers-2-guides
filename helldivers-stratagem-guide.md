@@ -6,73 +6,73 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
 > These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
-[<img src="/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
-[<img src="/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike">](#eagle-airstrike-)<!---->
-[<img src="/images/stratagems-64x/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb">](#eagle-cluster-bomb-)<!---->
-[<img src="/images/stratagems-64x/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement">](#hmg-emplacement-)<!---->
-[<img src="/images/stratagems-64x/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry">](#rocket-sentry-)<!---->
-[<img src="/images/stratagems-64x/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry">](#autocannon-sentry-)<!---->
-[<img src="/images/stratagems-64x/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry">](#ems-mortar-sentry-)<!---->
-[<img src="/images/stratagems-64x/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack">](#shield-generator-pack-)<!---->
-[<img src="/images/stratagems-64x/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack">](#supply-pack-)<!---->
-[<img src="/images/stratagems-64x/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced...">](#autocannon-)<!---->
-[<img src="/images/stratagems-64x/Commando_Stratagem_Icon.webp" title="...as all things should be.">](#commando-)<!---->
-[<img src="/images/stratagems-64x/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher">](#grenade-launcher-)<!---->
-[<img src="/images/stratagems-64x/Railgun_Stratagem_Icon.webp" title="Railgun">](#railgun-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike">](#eagle-airstrike-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb">](#eagle-cluster-bomb-)<!---->
+[<img src="/resources/images/stratagems-64x/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement">](#hmg-emplacement-)<!---->
+[<img src="/resources/images/stratagems-64x/Rocket_Sentry_Stratagem_Icon.webp" title="Rocket Sentry">](#rocket-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/Autocannon_Sentry_Stratagem_Icon.webp" title="Autocannon Sentry">](#autocannon-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/EMS_Mortar_Sentry_Stratagem_Icon.webp" title="EMS Mortar Sentry">](#ems-mortar-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/Shield_Generator_Pack_Stratagem_Icon.webp" title="Shield Generator Pack">](#shield-generator-pack-)<!---->
+[<img src="/resources/images/stratagems-64x/Supply_Pack_Stratagem_Icon.webp" title="Supply Pack">](#supply-pack-)<!---->
+[<img src="/resources/images/stratagems-64x/Autocannon_Stratagem_Icon.webp" title="Perfectly Balanced...">](#autocannon-)<!---->
+[<img src="/resources/images/stratagems-64x/Commando_Stratagem_Icon.webp" title="...as all things should be.">](#commando-)<!---->
+[<img src="/resources/images/stratagems-64x/Grenade_Launcher_Stratagem_Icon.webp" title="Grenade Launcher">](#grenade-launcher-)<!---->
+[<img src="/resources/images/stratagems-64x/Railgun_Stratagem_Icon.webp" title="Railgun">](#railgun-)<!---->
 
 ## Great on bugs only:
-> [<img src="/images/stratagems-64x/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage">](#orbital-gatling-barrage-)<!---->
-[<img src="/images/stratagems-64x/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike">](#eagle-napalm-strike-)<!---->
-[<img src="/images/stratagems-64x/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry">](#machinegun-sentry-)<!---->
-[<img src="/images/stratagems-64x/Machine_Gun_Stratagem_Icon.webp" title="Machinegun">](#machinegun-)<!---->
-[<img src="/images/stratagems-64x/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower">](#arc-thrower-)<!---->
+> [<img src="/resources/images/stratagems-64x/Orbital_Gatling_Barrage_Stratagem_Icon.webp" title="Orbital Gatling Barrage">](#orbital-gatling-barrage-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_Napalm_Airstrike_Stratagem_Icon.webp" title="Eagle Napalm Strike">](#eagle-napalm-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Machine_Gun_Sentry_Stratagem_Icon.webp" title="Machinegun Sentry">](#machinegun-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/Machine_Gun_Stratagem_Icon.webp" title="Machinegun">](#machinegun-)<!---->
+[<img src="/resources/images/stratagems-64x/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower">](#arc-thrower-)<!---->
 
 ## Great on bots only:
-> [<img src="/images/stratagems-64x/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage">](#orbial-380mm-barrage-)<!---->
-[<img src="/images/stratagems-64x/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry">](#mortar-sentry-)<!---->
-[<img src="/images/stratagems-64x/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack">](#ballistic-shield-backpack-)<!---->
-[<img src="/images/stratagems-64x/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun">](#heavy-machinegun-)<!---->
-[<img src="/images/stratagems-64x/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon">](#laser-cannon-)<!---->
-[<img src="/images/stratagems-64x/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle">](#anti-materiel-rifle-)<!---->
+> [<img src="/resources/images/stratagems-64x/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage">](#orbial-380mm-barrage-)<!---->
+[<img src="/resources/images/stratagems-64x/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry">](#mortar-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack">](#ballistic-shield-backpack-)<!---->
+[<img src="/resources/images/stratagems-64x/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun">](#heavy-machinegun-)<!---->
+[<img src="/resources/images/stratagems-64x/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon">](#laser-cannon-)<!---->
+[<img src="/resources/images/stratagems-64x/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle">](#anti-materiel-rifle-)<!---->
 
 ## Works if you play around its flaws:
 > These stratagems occupy an interesting niche but require you to learn specialized skills or deal with annoying design. <br>
-[<img src="/images/stratagems-64x/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage">](#orbital-120mm-barrage-)<!---->
-[<img src="/images/stratagems-64x/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike">](#eagle-smoke-strike-)<!---->
-[<img src="/images/stratagems-64x/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit">](#patriot-exosuit-)<!---->
-[<img src="/images/stratagems-64x/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit">](#emancipator-exosuit-)<!---->
-[<img src="/images/stratagems-64x/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines">](#anti-tank-mines-)<!---->
-[<img src="/images/stratagems-64x/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay">](#shield-generator-relay-)<!---->
-[<img src="/images/stratagems-64x/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover">](#guard-dog-rover-)<!---->
-[<img src="/images/stratagems-64x/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack">](#jump-pack-)<!---->
-[<img src="/images/stratagems-64x/Spear_Stratagem_Icon.webp" title="Spear">](#spear-)<!---->
-[<img src="/images/stratagems-64x/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon">](#quasar-cannon-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage">](#orbital-120mm-barrage-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike">](#eagle-smoke-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit">](#patriot-exosuit-)<!---->
+[<img src="/resources/images/stratagems-64x/Emancipator_Exosuit_Stratagem_Icon.webp" title="Emancipator Exosuit">](#emancipator-exosuit-)<!---->
+[<img src="/resources/images/stratagems-64x/Anti-Tank_Mines_Stratagem_Icon.webp" title="Anti-Tank Mines">](#anti-tank-mines-)<!---->
+[<img src="/resources/images/stratagems-64x/Shield_Generator_Relay_Stratagem_Icon.webp" title="Shield Generator Relay">](#shield-generator-relay-)<!---->
+[<img src="/resources/images/stratagems-64x/Guard_Dog_Rover_Stratagem_Icon.webp" title="Guard Dog Rover">](#guard-dog-rover-)<!---->
+[<img src="/resources/images/stratagems-64x/Jump_Pack_Stratagem_Icon.webp" title="Jump Pack">](#jump-pack-)<!---->
+[<img src="/resources/images/stratagems-64x/Spear_Stratagem_Icon.webp" title="Spear">](#spear-)<!---->
+[<img src="/resources/images/stratagems-64x/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon">](#quasar-cannon-)<!---->
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another in the same role. <br>
-[<img src="/images/stratagems-64x/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
-[<img src="/images/stratagems-64x/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
-[<img src="/images/stratagems-64x/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
-[<img src="/images/stratagems-64x/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run">](#eagle-strafing-run-)<!---->
-[<img src="/images/stratagems-64x/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb">](#eagle-500kg-bomb-)<!---->
-[<img src="/images/stratagems-64x/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry">](#gatling-sentry-)<!---->
-[<img src="/images/stratagems-64x/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog">](#guard-dog-)<!---->
-[<img src="/images/stratagems-64x/Stalwart_Stratagem_Icon.webp" title="Stalwart">](#stalwart-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_Strafing_Run_Stratagem_Icon.webp" title="Eagle Strafing Run">](#eagle-strafing-run-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_500kg_Bomb_Stratagem_Icon.webp" title="Eagle 500kg Bomb">](#eagle-500kg-bomb-)<!---->
+[<img src="/resources/images/stratagems-64x/Gatling_Sentry_Stratagem_Icon.webp" title="Gatling Sentry">](#gatling-sentry-)<!---->
+[<img src="/resources/images/stratagems-64x/Guard_Dog_Stratagem_Icon.webp" title="Guard Dog">](#guard-dog-)<!---->
+[<img src="/resources/images/stratagems-64x/Stalwart_Stratagem_Icon.webp" title="Stalwart">](#stalwart-)<!---->
 
 ## Pits of despair:
 > These stratagems don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both. <br>
-[<img src="/images/stratagems-64x/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike">](#orbital-gas-strike-)<!---->
-[<img src="/images/stratagems-64x/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike">](#orbital-smoke-strike-)<!---->
-[<img src="/images/stratagems-64x/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike">](#orbital-ems-strike-)<!---->
-[<img src="/images/stratagems-64x/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser">](#orbital-laser-)<!---->
-[<img src="/images/stratagems-64x/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Pods">](#eagle-rocket-pods-)<!---->
-[<img src="/images/stratagems-64x/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield">](#anti-personnel-minefield-)<!---->
-[<img src="/images/stratagems-64x/Incendiary_Minefield_Stratagem_Icon.webp" title="Incendiary Minefield">](#incendiary-minefield-)<!---->
-[<img src="/images/stratagems-64x/Tesla_Tower_Stratagem_Icon.webp" title="Tesla Tower">](#tesla-tower-)<!---->
-[<img src="/images/stratagems-64x/Airburst_Rocket_Launcher_Stratagem_Icon.webp" title="Airburst Rocket Launcher">](#airburst-rocket-launcher-)<!---->
-[<img src="/images/stratagems-64x/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle">](#recoilless-rifle-)<!---->
-[<img src="/images/stratagems-64x/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank">](#expendable-anti-tank-)<!---->
-[<img src="/images/stratagems-64x/Flamethrower_Stratagem_Icon.webp" title="Flamethrower">](#flamethrower-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike">](#orbital-gas-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike">](#orbital-smoke-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike">](#orbital-ems-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_Laser_Stratagem_Icon.webp" title="Orbital Laser">](#orbital-laser-)<!---->
+[<img src="/resources/images/stratagems-64x/Eagle_110mm_Rocket_Pods_Stratagem_Icon.webp" title="Eagle Rocket Pods">](#eagle-rocket-pods-)<!---->
+[<img src="/resources/images/stratagems-64x/Anti-Personnel_Minefield_Stratagem_Icon.webp" title="Anti-Helldiver Minefield">](#anti-personnel-minefield-)<!---->
+[<img src="/resources/images/stratagems-64x/Incendiary_Minefield_Stratagem_Icon.webp" title="Incendiary Minefield">](#incendiary-minefield-)<!---->
+[<img src="/resources/images/stratagems-64x/Tesla_Tower_Stratagem_Icon.webp" title="Tesla Tower">](#tesla-tower-)<!---->
+[<img src="/resources/images/stratagems-64x/Airburst_Rocket_Launcher_Stratagem_Icon.webp" title="Airburst Rocket Launcher">](#airburst-rocket-launcher-)<!---->
+[<img src="/resources/images/stratagems-64x/Recoilless_Rifle_Stratagem_Icon.webp" title="Recoilless Rifle">](#recoilless-rifle-)<!---->
+[<img src="/resources/images/stratagems-64x/Expendable_Anti-Tank_Stratagem_Icon.webp" title="Expendable Anti-Tank">](#expendable-anti-tank-)<!---->
+[<img src="/resources/images/stratagems-64x/Flamethrower_Stratagem_Icon.webp" title="Flamethrower">](#flamethrower-)<!---->
 
 ---
 
@@ -98,7 +98,7 @@ Orbitals are supposed to be high cooldown and high impact options. However, in p
 
 
 ## Orbital Precision Strike ►►▲
-> <img src="/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike"> <br>
+> <img src="/resources/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike"> <br>
 Fires a **single shot** from the Destroyer's 406mm ATLAS cannon. <br>
 The projectile deals 450 AP8 damage on a direct hit. Its explosion deals 1000 AP6 damage with a 4m inner radius.
 
@@ -112,7 +112,7 @@ Overall an excellent stratagem that just does what it's supposed to do and a fre
 Put simply: the Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they wipe the floor with every alternative.
 
 ## Eagle Airstrike ▲►▼►
-> <img src="/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike"> <br>
+> <img src="/resources/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike"> <br>
 Drops a spread of **6 bombs**, coming in perpendicular to the throw location. <br>
 Each 100kg bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
