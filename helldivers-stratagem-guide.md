@@ -103,9 +103,9 @@ Orbitals are supposed to be high cooldown and high impact options. However, in p
 Fires a single shot from the Destroyer's ATLAS cannon. <br>
 The projectile deals 450 AP8 damage on a direct hit. Its explosion deals 1000 AP6 damage with a 4m inner radius.
 
-The sole jewel in the Destroyer's... uh, paper hat, the Precision Strike is the very first stratagem that's been buffed by Arrowhead to serve the role that players want it to serve rather than the role they originally intended it to serve. Fittingly, it's the only meta Orbital stratagem and it sees wide use as the basis for many loadouts on both Bug and Bot fronts.
+The sole jewel in the Destroyer's... uh, paper hat, the Precision Strike is the very first stratagem that's been buffed by Arrowhead to serve the role that players want it to serve rather than the role they originally intended it to serve. Fittingly, it's the only meta Orbital stratagem and it sees wide use in many loadouts on both Bug and Bot fronts.
 
-Its power comes from its ability to quickly and consistently put down any large threat in the game, regardless of the situation and what the threat is doing at the time. In addition to its consistent performance and easy phone number, it also comes with a quick cooldown allowing it to keep up with the tempo required from stratagems on the highest difficulties. Overall an excellent stratagem and a frequent cornerstone of many loadouts, a fitting pair for the Eagle Airstrike.
+Its power comes from its ability to quickly and consistently put down any large threat in the game as long as they're doing something even vaguely predictable. In addition to its consistent performance and easy phone number, it also comes with a quick cooldown allowing it to keep up with the tempo required from stratagems on the highest difficulties. Overall an excellent stratagem and a frequent cornerstone of many loadouts, a fitting pair for the Eagle Airstrike.
 
 # Analysis: Eagles
 Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
