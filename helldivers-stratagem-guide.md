@@ -113,8 +113,8 @@ Put simply: the Eagle is an absolute powerhouse. Not only does it have the close
 
 ## Eagle Airstrike ▲►▼►
 > <img src="/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike"> <br>
-Drops a spread of **6** 100kg **bombs**, coming in perpendicular to the throw location. <br>
-Each bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
+Drops a spread of **6 bombs**, coming in perpendicular to the throw location. <br>
+Each 100kg bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
 
 
