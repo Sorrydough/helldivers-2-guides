@@ -100,7 +100,7 @@ Orbitals are supposed to be high cooldown and high impact options. However, in p
 
 ## Orbital Precision Strike ▲►►
 > <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> <br>
-Fires a single shot from the Destroyer's ATLAS cannon. The projectile deals 450 AP8 damage with a 1000 damage AP6 explosion. It has a 4m inner radius.
+Fires a single shot from the Destroyer's ATLAS cannon. The projectile deals 450 AP8 damage. Its explosion deals 1000 AP6 damage with a 4m inner radius.
 
 
 # Analysis: Eagles
@@ -108,7 +108,7 @@ Put simply: The Eagle is an absolute powerhouse. Not only does it have the close
 
 ## Eagle Airstrike ▲►▼►
 > <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"> <br>
-Eagle comes in perpendicularly to the throw location, dropping a barrage of 6 100kg bombs. Each bomb deals 500 AP5 direct damage with an 800 damage AP5 explosion. It has a 5m inner radius.
+Drops a barrage of 6 100kg bombs, coming in perpendicularly to the throw location. Each bomb deals 500 AP5 direct damage. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
 
 
