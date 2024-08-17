@@ -107,7 +107,7 @@ The sole jewel in the Destroyer's... uh, paper hat, the Precision Strike is the 
 
 Its power comes from its ability to quickly and consistently put down any large threat in the game as long as they're doing something even vaguely predictable. In addition to its consistent performance and easy phone number, it also comes with a quick cooldown allowing it to keep up with the tempo required from stratagems on the highest difficulties.
 
-Overall an excellent stratagem and a frequent cornerstone of many loadouts, a classic pair for the Eagle Airstrike.
+Overall an excellent stratagem that just does what it's supposed to do and a frequent cornerstone of many loadouts.
 
 # Analysis: Eagles
 Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
