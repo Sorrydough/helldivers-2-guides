@@ -6,7 +6,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
 > These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
-[<img src="/images/stratagems-64x/Orbital_precision_strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
+[<img src="/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
 [<img src="/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike">](#eagle-airstrike-)<!---->
 [<img src="/images/stratagems-64x/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb">](#eagle-cluster-bomb-)<!---->
 [<img src="/images/stratagems-64x/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement">](#hmg-emplacement-)<!---->
