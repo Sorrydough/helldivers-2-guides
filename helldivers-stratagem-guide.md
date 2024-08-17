@@ -95,17 +95,21 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 
 
 # Analysis: Orbitals
-Orbitals are in a strange place. The majority have comparable damage per use to a single Eagle strike but with a cooldown matching the Eagle's entire rearm duration. Orbital stratagems can only stand out when offering something completely unique. It's a reasonable expectation for them to fail a direct competition with an Eagle equivalent in the same role.
+Orbitals are supposed to be high cooldown and high impact options. However, in practice their effectiveness per dial struggles to compete with that of other stratagems. It's a reasonable expectation for an Orbital to fail a direct competition with an Eagle or Emplacement equivalent in the same role. Orbital stratagems tend to only stand out when offering something completely unique.
 
 
 ## Orbital Precision Strike ▲►►
-
 > <img src="/images/stratagems/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike" width="64"> <br>
-Fires a single shot from the Destroyer's ATLAS cannon. The projectile deals 450 AP8 damage and creates a 1000 damage AP6 explosion with a 4m inner radius and an 18m shockwave. Callin time is 3.45s normally or 5.15s with the modifier.
+Fires a single shot from the Destroyer's ATLAS cannon. The projectile deals 450 AP8 damage with a 1000 damage AP6 explosion. It has a 4m inner radius.
 
 
 # Analysis: Eagles
 Put simply: The Eagle is an absolute powerhouse. Not only does it have the closest thing to a mandatory stratagem in the Airstrike, but nearly all of its options outcompete their Orbital equivalents while also frequently offering novel utility on top. Over half the options in this category have at least one niche where they outcompete everything else.
+
+## Eagle Airstrike
+> <img src="/images/stratagems/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike" width="64"> <br>
+Eagle comes in perpendicularly to the throw location, dropping a barrage of 6 100kg bombs. Each bomb deals 500 AP5 direct damage with an 800 damage AP5 explosion. It has a 5m inner radius.
+
 
 
 
