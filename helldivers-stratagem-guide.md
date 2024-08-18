@@ -36,7 +36,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/resources/images/stratagems-64x/Anti-Materiel_Rifle_Stratagem_Icon.webp" title="Anti-Materiel Rifle">](#anti-materiel-rifle-)<!---->
 
 ## Works if you play around its flaws:
-> These stratagems occupy an interesting niche but require you to learn specialized skills or deal with annoying design. <br>
+> These stratagems occupy an interesting niche but require you to learn specialized skills or tolerate annoying design. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_120mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 120mm Barrage">](#orbital-120mm-barrage-)<!---->
 [<img src="/resources/images/stratagems-64x/Eagle_Smoke_Strike_Stratagem_Icon.webp" title="Eagle Smoke Strike">](#eagle-smoke-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Patriot_Exosuit_Stratagem_Icon.webp" title="Patriot Exosuit">](#patriot-exosuit-)<!---->
