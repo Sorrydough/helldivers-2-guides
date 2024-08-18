@@ -7,6 +7,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 ## Great on both fronts:
 > These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
+[<img src="/resources/images/stratagems-64x/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage">](#orbial-380mm-barrage-)<!---->
 [<img src="/resources/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike">](#eagle-airstrike-)<!---->
 [<img src="/resources/images/stratagems-64x/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb">](#eagle-cluster-bomb-)<!---->
 [<img src="/resources/images/stratagems-64x/HMG_Emplacement_Stratagem_Icon.webp" title="HMG Emplacement">](#hmg-emplacement-)<!---->
@@ -28,8 +29,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/resources/images/stratagems-64x/Arc_Thrower_Stratagem_Icon.webp" title="Arc Thrower">](#arc-thrower-)<!---->
 
 ## Great on bots only:
-> [<img src="/resources/images/stratagems-64x/Orbital_380mm_HE_Barrage_Stratagem_Icon.webp" title="Orbital 380mm Barrage">](#orbial-380mm-barrage-)<!---->
-[<img src="/resources/images/stratagems-64x/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry">](#mortar-sentry-)<!---->
+> [<img src="/resources/images/stratagems-64x/Mortar_Sentry_Stratagem_Icon.webp" title="Mortar Sentry">](#mortar-sentry-)<!---->
 [<img src="/resources/images/stratagems-64x/Ballistic_Shield_Backpack_Stratagem_Icon.webp" title="Ballistic Shield Backpack">](#ballistic-shield-backpack-)<!---->
 [<img src="/resources/images/stratagems-64x/Heavy_Machine_Gun_Stratagem_Icon.webp" title="Heavy Machinegun">](#heavy-machinegun-)<!---->
 [<img src="/resources/images/stratagems-64x/Laser_Cannon_Stratagem_Icon.webp" title="Laser Cannon">](#laser-cannon-)<!---->
@@ -49,7 +49,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 [<img src="/resources/images/stratagems-64x/Quasar_Cannon_Stratagem_Icon.webp" title="Quasar Cannon">](#quasar-cannon-)<!---->
 
 ## Works but a downgrade of something else:
-> These stratagems fail to compete with another in the same role. <br>
+> These stratagems fail to compete with another in the same role. Could still be useful if you're already taking the better version and want another. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
