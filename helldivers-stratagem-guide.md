@@ -50,7 +50,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another in the same role. <br>
-Could still be useful if you're already taking the better version and want another. <br>
+Could still be useful if you're already taking the better version and looking for second breakfast. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
