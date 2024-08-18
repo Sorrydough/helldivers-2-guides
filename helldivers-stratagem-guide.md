@@ -62,7 +62,7 @@ Could still be useful if you're already taking the better version and looking fo
 
 ## Pits of despair:
 > These stratagems don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both. <br>
-Taking one of these is usually signing up for disappointment and frustration. <br>
+Taking one of these is signing up for disappointment and frustration. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike">](#orbital-gas-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike">](#orbital-smoke-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike">](#orbital-ems-strike-)<!---->
