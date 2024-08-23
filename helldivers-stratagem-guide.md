@@ -4,8 +4,8 @@
 Quick and to the point for your ADHD addled brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
 You can (and should!) click on things to jump to their detailed analysis.
 
- >Here are some tags you can search to find stratagems that do something you might want: <br>
-Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
+Here are some tags you can search to find stratagems that do something you might want:
+> Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
 
 ## Great on both fronts:
 > These stratagems can form the foundation of an effective loadout and they're always a safe pick. <br>
