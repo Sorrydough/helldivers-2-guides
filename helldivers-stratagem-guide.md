@@ -124,7 +124,8 @@ Each 100kg bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 
 ## Eagle Cluster Bomb ▲►▼▼►
 > <img src="/resources/images/stratagems/medium/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb"> <br>
 Drops a spread of **eight bombs**, coming in perpendicular to the throw location. Tags: Hordeclear, Specialist. <br>
-Each 100kg bomb explodes into **eight shrapnel fragments** dealing 350 AP3 damage with a 1m inner radius. **Each shrapnel also explodes** dealing 350 AP3 damage with a 3m inner radius.
+Each 100kg bomb explodes into **eight shrapnel fragments** dealing 350 AP3 damage with a 1m inner radius. <br>
+**Each shrapnel also explodes** dealing 350 AP3 damage with a 3m inner radius.
 
 # Analysis: Vehicles
 Our only vehicles at the moment are exosuits... and these things are not regarded well by the community. Despite being buggy and not behaving as anyone wanted, they can still find use. They're especially effective on loadouts dedicated to high cooldown toss-and-forget style stratagems such as orbital barrages or sentries.
