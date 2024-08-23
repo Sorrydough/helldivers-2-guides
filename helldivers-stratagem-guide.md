@@ -1,7 +1,7 @@
 >**Updated to patch: Escalation of Freedom.** No I'm not OhDough, it's just a coincidence that our names are similar.
 # Sorrydough's opinionated & extra-biased Stratagem Guide
 
-Quick and to the point for your ADHD addled brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
+Quick and to the point for your ADHD brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
 You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
