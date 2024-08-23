@@ -4,9 +4,6 @@
 Quick and to the point for your ADHD addled brain. If you're new to the game and unsure what to use then pick stuff from the 'great' categories and go wild.
 You can (and should!) click on things to jump to their detailed analysis.
 
-Here are some tags you can search to find stratagems that do something you might want: <br>
-Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
-
 ## Great on both fronts:
 > These stratagems can form the foundation of an effective loadout and they're always a safe pick. <br>
 [<img src="/resources/images/stratagems/medium/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
@@ -53,7 +50,7 @@ Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another in the same role. <br>
-Some could still be useful if you're already taking the better version but hungry for seconds. <br>
+Some could still be useful if you're already taking the better version and hungry for seconds. <br>
 [<img src="/resources/images/stratagems/medium/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
 [<img src="/resources/images/stratagems/medium/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
 [<img src="/resources/images/stratagems/medium/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
@@ -97,6 +94,10 @@ While there are 10,000 different ways to play helldivers and everyone is going t
 6. **I'm not going to put things into a simple tierlist.**
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
+
+Here are some tags you can search to find stratagems that do something you might want:
+
+Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
 
 # Analysis: Orbitals
 Orbitals are supposed to be high cooldown and high impact options. However, in practice their effectiveness per dial struggles to compete with that of other stratagems. It's a reasonable expectation for an Orbital to fail a direct competition with an Eagle or Emplacement equivalent in the same role. Orbital stratagems tend to only stand out when offering something completely unique.
