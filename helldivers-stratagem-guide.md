@@ -95,8 +95,7 @@ While there are 10,000 different ways to play helldivers and everyone is going t
     - Tiers cause more problems than they solve; it's well-established that people will ignore descriptions in favor of tiers when provided the chance and I don't want to deal with that nonsense.
 ## ▲▲▲ IMPORTANT READ THIS BEFORE YAPPING ▲▲▲
 
-Here are some tags you can search to find stratagems that do something you might want:
-
+Here are some tags you can search to find stratagems that do something you might want: <br>
 Versatile, Specialist, Hordeclear, Heavyclear, Needy, Independent, Keystone
 
 # Analysis: Orbitals
