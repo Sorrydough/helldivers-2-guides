@@ -124,7 +124,7 @@ Drops a spread of **six bombs**, coming in perpendicular to the throw location. 
 Each 100kg bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
 ## Eagle Cluster Bomb ▲►▼▼►
-Tags: Hordeclear, Specialist.
+Tags: Specialist, Hordeclear, Needy.
 > <img src="/resources/images/stratagems/medium/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb"> <br>
 Drops a spread of **eight bombs**, coming in perpendicular to the throw location. <br>
 Each 100kg bomb explodes dealing minimal damage. Their primary purpose is to generate **eight shrapnel fragments**. <br>
