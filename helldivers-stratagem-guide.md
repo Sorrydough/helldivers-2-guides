@@ -61,7 +61,7 @@ Some could still be useful if you're already taking the better version and looki
 [<img src="/resources/images/stratagems-64x/Stalwart_Stratagem_Icon.webp" title="Stalwart">](#stalwart-)<!---->
 
 ## Pits of despair:
-> These stratagems are signing up for disappointment and frustration. <br>
+> These stratagems sign you up for disappointment and frustration. <br>
 They don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both.  <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike">](#orbital-gas-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike">](#orbital-smoke-strike-)<!---->
