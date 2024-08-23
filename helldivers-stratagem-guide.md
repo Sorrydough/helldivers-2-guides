@@ -130,6 +130,11 @@ Drops a spread of **eight bombs**, coming in perpendicular to the throw location
 Each 100kg bomb explodes dealing minimal damage. Their primary purpose is to generate **eight shrapnel fragments**. <br>
 **The shrapnel fragments also explode** dealing 350 AP3 damage with a 3m inner radius.
 
+You ever wondered how this shit gets everywhere? Yeah I did as well. Turns out the thing explodes and the explosions also explode and sometimes those explosions cause stuff to explode too. Absolutely wild. Well, it certainly accomplishes its goal of turning everything into mulch. Even resistant targets like devastators can still find themselves on the brink of death, begging to be finished off by an AOE primary just from the sheer damage output of the thing.
+
+This thing has a reputation for teamkilling and I assure you that it's a certified skill issue. Just toss it farther away guys. I'm serious. The radius is twice as big as you think it is, and you'll still kill all the stuff even if you throw it further. Consider getting some servo assistance if your throwing arm is limp.
+
+
 # Analysis: Vehicles
 Our only vehicles at the moment are exosuits... and these things are not regarded well by the community. Despite being buggy and not behaving as anyone wanted, they can still find use. They're especially effective on loadouts dedicated to high cooldown toss-and-forget style stratagems such as orbital barrages or sentries.
 
