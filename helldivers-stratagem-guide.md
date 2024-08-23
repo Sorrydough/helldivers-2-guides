@@ -104,7 +104,7 @@ Orbitals are supposed to be high cooldown and high impact options. However, in p
 
 ## Orbital Precision Strike ►►▲
 > <img src="/resources/images/stratagems/medium/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike"> <br>
-Fires a **single shot** from the Destroyer's 406mm ATLAS cannon. Tags: Heavyclear, Keystone <br>
+Fires a **single shot** from the Destroyer's 406mm ATLAS cannon. Tags: Heavyclear, Keystone. <br>
 The projectile deals 450 AP8 damage on a direct hit. Its explosion deals 1000 AP6 damage with a 4m inner radius.
 
 The sole jewel in the Super Destroyer's... uh, paper hat, the Precision Strike is the very first stratagem that's been buffed by Arrowhead to serve the role that players want it to serve rather than the role it was originally intended to serve. Fittingly, it's the only meta Orbital stratagem and sees widespread use in many loadouts on both Bug and Bot fronts.
@@ -121,6 +121,9 @@ Put simply: the Eagle is an absolute powerhouse. Not only does it have the close
 Drops a spread of **six bombs**, coming in perpendicular to the throw location. Tags: Versatile, Keystone.<br>
 Each 100kg bomb deals 500 AP5 damage on a direct hit. Their explosions deal 800 AP5 damage with a 5m inner radius.
 
+## Eagle Cluster Bomb ▲►▼▼►
+> Drops a spread of **eight bombs**, coming in perpendicular to the throw location.
+Each 100kg bomb explodes into **eight shrapnel fragments** dealing 350 AP3 damage with a 1m inner radius. **Each shrapnel also explodes** dealing 350 AP3 damage with a 3m inner radius.
 
 # Analysis: Vehicles
 Our only vehicles at the moment are exosuits... and these things are not regarded well by the community. Despite being buggy and not behaving as anyone wanted, they can still find use. They're especially effective on loadouts dedicated to high cooldown toss-and-forget style stratagems such as orbital barrages or sentries.
