@@ -5,7 +5,7 @@ Quick and to the point for your ADHD addled brain. If you're new to the game and
 You can (and should!) click on things to jump to their detailed analysis.
 
 ## Great on both fronts:
-> These stratagems form the foundation of an effective loadout and they're always a safe pick. <br>
+> These stratagems can form the foundation of an effective loadout and they're always a safe pick. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Precision_Strike_Stratagem_Icon.webp" title="Orbital Precision Strike">](#orbital-precision-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Eagle_Airstrike_Stratagem_Icon.webp" title="Eagle Airstrike">](#eagle-airstrike-)<!---->
 [<img src="/resources/images/stratagems-64x/Eagle_Cluster_Bomb_Stratagem_Icon.webp" title="Eagle Cluster Bomb">](#eagle-cluster-bomb-)<!---->
@@ -50,7 +50,7 @@ You can (and should!) click on things to jump to their detailed analysis.
 
 ## Works but a downgrade of something else:
 > These stratagems fail to compete with another in the same role. <br>
-Could still be useful if you're already taking the better version and looking for second breakfast. <br>
+Some could still be useful if you're already taking the better version and looking to double up. <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Railcannon_Strike_Stratagem_Icon.webp" title="Orbital Railcannon Strike">](#orbital-railcannon-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Airburst_Strike_Stratagem_Icon.webp" title="Orbital Airburst Strike">](#orbital-airburst-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Walking_Barrage_Stratagem_Icon.webp" title="Orbital Walking Barrage">](#orbital-walking-barrage-)<!---->
@@ -61,8 +61,8 @@ Could still be useful if you're already taking the better version and looking fo
 [<img src="/resources/images/stratagems-64x/Stalwart_Stratagem_Icon.webp" title="Stalwart">](#stalwart-)<!---->
 
 ## Pits of despair:
-> These stratagems don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both. <br>
-Taking one of these is signing up for disappointment and frustration. <br>
+> These stratagems are signing up for disappointment and frustration. <br>
+They don't work how they should or represent a problem with Arrownoggin's balance philosophy. Usually both.  <br>
 [<img src="/resources/images/stratagems-64x/Orbital_Gas_Strike_Stratagem_Icon.webp" title="Orbital Gas Strike">](#orbital-gas-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_Smoke_Strike_Stratagem_Icon.webp" title="Orbital Smoke Strike">](#orbital-smoke-strike-)<!---->
 [<img src="/resources/images/stratagems-64x/Orbital_EMS_Strike_Stratagem_Icon.webp" title="Orbital EMS Strike">](#orbital-ems-strike-)<!---->
