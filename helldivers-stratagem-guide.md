@@ -134,7 +134,9 @@ You ever wondered how this shit gets everywhere? Yeah I did as well.
 
 Turns out the thing explodes and the explosions also explode and sometimes those explosions cause stuff to explode too. Absolutely wild. Well, it certainly accomplishes its goal of turning everything into mulch. Even resistant AV4 targets like devastators can still find themselves on the brink of death just from the sheer damage output of the thing, begging to be finished off by an AOE primary.
 
-It's got an infamous reputation for teamkilling and I assure you that's a certified skill issue. Just toss it farther away guys. I'm serious. The radius is twice as big as you think it is and you'll still kill all the stuff even if you throw it further. Consider getting some servo assistance if your throwing arm is limp.
+It's got an infamous reputation for teamkilling and I assure you that's a certified skill issue. Just toss it farther away guys. I'm serious. The radius is twice as big as you think it is and you'll still kill all the stuff even if you throw it further.
+
+Consider getting some servo assistance if your throwing arm is limp.
 
 
 # Analysis: Vehicles
